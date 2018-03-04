@@ -1,7 +1,7 @@
 S3 Backups
 ==========
 
-.. image:: https://pypip.in/v/s3-backups/badge.png
+.. image:: https://img.shields.io/pypi/v/s3-backups.svg
         :target: https://pypi.python.org/pypi/s3-backups
 
 .. image:: https://travis-ci.org/epicserve/s3-backups.png?branch=master
